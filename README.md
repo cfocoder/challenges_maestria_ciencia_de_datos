@@ -29,6 +29,10 @@ Este proyecto muestra un análisis exploratorio de la base de datos Global Terro
 - El análisis se puede extender a otros países, ciudades o tipos de ataque según el interés.
 - El notebook está listo para ser ejecutado en Databricks y puede adaptarse fácilmente a otros entornos Spark.
 
+## Global Terrorism Database (Kaggle)
+https://www.kaggle.com/datasets/START-UMD/gtd
+
+
 ---
 
 **Autor:** Héctor Sánchez
