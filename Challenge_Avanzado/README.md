@@ -187,7 +187,7 @@ El notebook genera:
 ## 🔗 Referencias
 
 - [PySpark Documentation](https://spark.apache.org/docs/latest/api/python/)
-- [PyCaret Documentation](https://pycaret.org/)
+- [PyCaret Documentation](https://github.com/pycaret/pycaret)
 - [Databricks Connect](https://docs.databricks.com/en/dev-tools/databricks-connect/index.html)
 - [yfinance Documentation](https://github.com/ranaroussi/yfinance)
 
