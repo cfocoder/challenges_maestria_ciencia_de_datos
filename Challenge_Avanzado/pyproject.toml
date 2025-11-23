@@ -1,0 +1,16 @@
+[project]
+name = "challenge-avanzado4"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "databricks-connect>=16.0,<17.0",
+    "jupyter>=1.1.1",
+    "pycaret[analysis,models]>=3.2",
+    "pydantic>=2.12.4",
+    "seaborn>=0.13.2",
+    "yfinance>=0.2.66"
+]
+[tool.uv]
+environments = ["sys_platform == 'linux' and (platform_machine == 'aarch64' or platform_machine == 'arm64')"]
